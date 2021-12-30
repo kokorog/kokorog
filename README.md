@@ -10,7 +10,7 @@
 -  **Languages :** PHP, JavaScript, Python, Go, Lua
 -  **Hobbies :** Basketball :basketball: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
+-  **Contact me :** [KOKOROG](Discord: KOKOROG#1041)
 
 
 ### Languages and Tools
