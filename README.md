@@ -7,8 +7,8 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, JavaScript, Python, Go, Lua
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Languages :** PHP, JavaScript, Python, Sql, Lua
+-  **Hobbies :** Coding 👨‍💻: & Gaming 🎮:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [KOKOROG](Discord: KOKOROG#1041)
 
